@@ -109,7 +109,7 @@ public class controles_basicos extends AppCompatActivity {
         // obtiene el Item del menú que se presionó
         int id = opcion_menu.getItemId();
         // determinamos a quien corresponde la opción.
-        if (id == R.id.usuarios) {
+        if (id == R.id.acercade) {
             Toast.makeText(this, "Opcion de Usuarios", Toast.LENGTH_LONG).show();
             return true;
         }

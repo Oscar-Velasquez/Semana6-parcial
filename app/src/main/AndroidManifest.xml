@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Multifuncion">
         <activity
+            android:name=".acerca_de"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity_determinar"
             android:exported="false" />
         <activity
