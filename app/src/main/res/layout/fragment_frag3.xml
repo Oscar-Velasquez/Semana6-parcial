@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PagerController.frag3"
+    android:background="@drawable/fondo_textura_negra_con_triangulos">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:paddingHorizontal="30sp"
+        android:paddingVertical="30sp"
+        android:text="@string/frag3"
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+
+</FrameLayout>

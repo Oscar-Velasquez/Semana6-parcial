@@ -3,6 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/DELL/Downloads/multifuncion2/multifuncion2/app/src/main/res/drawable/icono_contacto_blanco.xml" value="0.144" />
+        <entry key="..\:/Users/DELL/Downloads/multifuncion2/multifuncion2/app/src/main/res/drawable/icono_heart_blanco.xml" value="0.144" />
+        <entry key="..\:/Users/DELL/Downloads/multifuncion2/multifuncion2/app/src/main/res/drawable/icono_home_blanco.xml" value="0.144" />
+        <entry key="..\:/Users/DELL/Downloads/multifuncion2/multifuncion2/app/src/main/res/drawable/icono_search_blanco.xml" value="0.144" />
+        <entry key="..\:/Users/DELL/Downloads/multifuncion2/multifuncion2/app/src/main/res/layout/activity_cambios_de_camara.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/DELL/Downloads/multifuncion2/multifuncion2/app/src/main/res/layout/activity_controles_basicos.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/Downloads/multifuncion2/multifuncion2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/Downloads/multifuncion2/multifuncion2/app/src/main/res/layout/activity_main_determinar.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/DELL/Downloads/multifuncion2/multifuncion2/app/src/main/res/layout/activity_main_determinar2.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/DELL/Downloads/multifuncion2/multifuncion2/app/src/main/res/layout/activity_operaciones_basicas.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/DELL/Downloads/multifuncion2/multifuncion2/app/src/main/res/layout/fragment_frag1.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/DELL/Downloads/multifuncion2/multifuncion2/app/src/main/res/layout/fragment_frag2.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/DELL/Downloads/multifuncion2/multifuncion2/app/src/main/res/layout/fragment_frag3.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/DELL/Downloads/multifuncion2/multifuncion2/app/src/main/res/layout/fragment_frag4.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/DELL/Downloads/multifuncion2/multifuncion2/app/src/main/res/menu/menu_principal.xml" value="0.16203703703703703" />
         <entry key="..\:/Users/Samuel/Documents/Ciclo III/Programacion Computacional II/Tareas/multifuncion2/app/src/main/res/layout/activity_cambios_de_camara.xml" value="0.2033514492753623" />
         <entry key="..\:/Users/Samuel/Documents/Ciclo III/Programacion Computacional II/Tareas/multifuncion2/app/src/main/res/layout/activity_controles_basicos.xml" value="0.2033514492753623" />
         <entry key="..\:/Users/Samuel/Documents/Ciclo III/Programacion Computacional II/Tareas/multifuncion2/app/src/main/res/layout/activity_main.xml" value="0.264" />
