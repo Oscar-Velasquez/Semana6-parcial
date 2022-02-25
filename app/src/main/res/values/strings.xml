@@ -45,4 +45,7 @@
     <string name="mlt4">Sobre nosotros</string>
     <string name="mlt5">Imagenes</string>
 
+    //SENSOR DE PROXIMIDAD
+    <string name="sensor">SENSOR DE PROXIMIDAD</string>
+
 </resources>
