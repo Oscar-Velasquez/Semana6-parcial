@@ -9,6 +9,6 @@ public class cambios_de_camara extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_cambios_de_camara);
+        setContentView(R.layout.activity_cambios_de_pantalla);
     }
 }
