@@ -1,16 +1,16 @@
 package com.example.multifuncion;
 
-import androidx.appcompat.app.AppCompatActivity;
-
-import androidx.appcompat.app.AppCompatActivity;
-
+import android.content.Intent;
 import android.graphics.Color;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class sensores extends AppCompatActivity {
     SensorManager sensorManager;
@@ -59,5 +59,9 @@ public class sensores extends AppCompatActivity {
     protected void onResume() {
         start();
         super.onResume();
+    }
+    public void acele(View view) {
+        Intent aceler = new Intent(this, sensor_acelerometro.class);
+        startActivity(aceler);
     }
 }

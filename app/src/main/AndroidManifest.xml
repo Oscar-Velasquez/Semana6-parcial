@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Multifuncion">
         <activity
+            android:name=".sensor_acelerometro"
+            android:exported="false" />
+        <activity
+            android:name=".acerca_de_nosotros"
+            android:exported="false" />
+        <activity
             android:name=".video"
             android:exported="false" />
         <activity

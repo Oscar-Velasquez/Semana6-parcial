@@ -1,32 +1,31 @@
 <resources>
     <string name="app_name">multifuncion</string>
 
+    // CAMBIOS DE PANTALLA
     <string name="texto1">Programacion Computacional II</string>
     <string name="texto2">Oscar Manuel Lopez Velasquez</string>
     <string name="texto3">USIS935821</string>
     <string name="texto4">Universidad Gerardo Barrios</string>
-    //
+
+    //OPERACIONES BASICAS
     <string name="titulo">CONTROLES BASICOS</string>
     <string name="nombre">Escriba su nombre</string>
     <string name="apellido">Escriba su apellido</string>
     <string name="enviarDatos">ENVIAR DATOS</string>
     <string name="etbutton">Siguiente</string>
-    //
     <string name="titul">DETERMINAR SI ES MAYOR DE EDAD</string>
     <string name="nombr">Escriba su nombre</string>
     <string name="eda">Escriba su edad</string>
     <string name="enviarDato">ENVIAR DATOS</string>
     <string name="volver">PANTALLA ANTERIOR</string>
-    //
-    <string name="titulo2">DETERMINAR SI ES MAYOR DE EDAD</string>
-    <string name="app_nama">Entre dos activitys</string>
+
+    //CONTROLES BASICOS
     <string name="setText"> </string>
     <string name="tvEdadReci"> </string>
     <string name="btVolver">Pantalla Anterior</string>
     <string name="tvEstado"> </string>
-
     <string name="BotonSiguiente">Siguiente</string>
-    //
+
     //TABS
     <string name="ti1">Home</string>
     <string name="ti2">Buscar</string>
@@ -48,7 +47,20 @@
     //SENSOR DE PROXIMIDAD
     <string name="sensor">SENSOR DE PROXIMIDAD</string>
 
+    //SENSOR ACELEROMETRO
+    <string name="acele">SENSOR ACELEROMETRO</string>
     //VIDEO
     <string name="video">REPRODUCTOR DE VIDEO</string>
+    <string name="botonid">Video</string>
 
+    //ACERCA DE NOSOTROS
+    <string name="BUTTON">Acerca de Nosotros</string>
+    <string name="ugb">UNIVERSIDAD GUERARDO BARRIOS</string>
+    <string name="num1">Ana Carolina Guevara Rodriguez</string>
+    <string name="num2">Alan Derek Henriquez Monterrosa</string>
+    <string name="num3">Oscar Manuel Lopez Velasquez</string>\
+    <string name="num4">Samuel Isai Mejia Alfaro</string>
+    <string name="num5">Angel Ernesto Aparicio Martinez</string>
+    <string name="num6">Kerin Fransisco Melendez Mejia</string>
+    <string name="num7">Rene Gustavo Garcia Gomez</string>
 </resources>
