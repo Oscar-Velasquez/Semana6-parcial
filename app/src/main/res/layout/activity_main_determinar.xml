@@ -52,6 +52,8 @@
         android:layout_width="match_parent"
         android:layout_height="526dp"
         android:scaleType="centerInside"
-        app:srcCompat="@drawable/estudiantes_ugb2021" />
+        app:srcCompat="@drawable/estudiantes_ugb2021"
+        tools:ignore="ImageContrastCheck,ImageContrastCheck"
+        android:contentDescription="TODO" />
 
 </LinearLayout>
