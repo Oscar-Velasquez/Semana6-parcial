@@ -140,4 +140,8 @@ public class rep_audio_y_video extends AppCompatActivity {
         startActivity(video);
 
     }
+    public void Atras10(View view) {
+        Intent Atras = new Intent(this, MainActivity.class);
+        startActivity(Atras);
+    }
 }

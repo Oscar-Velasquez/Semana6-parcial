@@ -31,6 +31,7 @@
     <string name="ti2">Buscar</string>
     <string name="ti3">Artistas</string>
     <string name="ti4">Usuario</string>
+    <string name="ti5">Salir</string>
     <string name="frag1">Este es el primer ejemplo de fragment dentro del código</string>
     <string name="frag2">Este es el segundo ejemplo de fragment dentro del código</string>
     <string name="frag3">Este es el tercer ejemplo de fragment dentro del código</string>
@@ -43,6 +44,7 @@
     <string name="mlt3">Información</string>
     <string name="mlt4">Sobre nosotros</string>
     <string name="mlt5">Imagenes</string>
+    <string name="atras">ATRAS</string>
 
     //SENSOR DE PROXIMIDAD
     <string name="sensor">SENSOR DE PROXIMIDAD</string>
@@ -63,4 +65,6 @@
     <string name="num5">Angel Ernesto Aparicio Martinez</string>
     <string name="num6">Kerin Fransisco Melendez Mejia</string>
     <string name="num7">Rene Gustavo Garcia Gomez</string>
+
+
 </resources>

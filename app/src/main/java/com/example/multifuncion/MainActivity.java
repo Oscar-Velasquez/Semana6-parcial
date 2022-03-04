@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void Campant(View view) {
-        Intent campant = new Intent(this, cambios_de_camara.class);
+        Intent campant = new Intent(this, cambios_de_pantalla.class);
         startActivity(campant);
     }
 
@@ -46,8 +46,6 @@ public class MainActivity extends AppCompatActivity {
         Intent acercade = new Intent(this, acerca_de.class);
         startActivity(acercade);
     }
-
-
 }
 
 

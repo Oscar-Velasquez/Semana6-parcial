@@ -1,5 +1,6 @@
 package com.example.multifuncion;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
@@ -7,6 +8,7 @@ import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.media.MediaPlayer;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -74,5 +76,9 @@ public class sensor_acelerometro extends AppCompatActivity {
     protected void onResume() {
         star();
         super.onResume();
+    }
+    public void Atras4(View view) {
+        Intent Atras = new Intent(this, sensores.class);
+        startActivity(Atras);
     }
 }

@@ -37,5 +37,9 @@ public class MainActivity_determinar extends AppCompatActivity {
         });
 
     }
+    public void Atras3(View view) {
+        Intent Atras = new Intent(this, operaciones_basicas.class);
+        startActivity(Atras);
+    }
 
 }

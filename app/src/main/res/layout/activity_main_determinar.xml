@@ -50,10 +50,17 @@
     <ImageView
         android:id="@+id/imageView3"
         android:layout_width="match_parent"
-        android:layout_height="526dp"
+        android:layout_height="365dp"
+        android:contentDescription="TODO"
         android:scaleType="centerInside"
         app:srcCompat="@drawable/estudiantes_ugb2021"
-        tools:ignore="ImageContrastCheck,ImageContrastCheck"
-        android:contentDescription="TODO" />
+        tools:ignore="ImageContrastCheck,ImageContrastCheck" />
+
+    <Button
+        android:id="@+id/idatras3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/atras"
+        android:onClick="Atras3"/>
 
 </LinearLayout>

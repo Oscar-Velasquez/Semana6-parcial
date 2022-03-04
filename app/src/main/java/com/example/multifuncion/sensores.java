@@ -64,4 +64,9 @@ public class sensores extends AppCompatActivity {
         Intent aceler = new Intent(this, sensor_acelerometro.class);
         startActivity(aceler);
     }
+    public void Atras7(View view) {
+        Intent Atras = new Intent(this, MainActivity.class);
+        startActivity(Atras);
+    }
+
 }

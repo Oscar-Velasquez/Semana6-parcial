@@ -39,6 +39,7 @@ public class MainActivity_determinar2 extends AppCompatActivity {
                         Intent(MainActivity_determinar2.this,MainActivity_determinar.class);
                 startActivity(vuelva);
             }
+
         });
     }
 }

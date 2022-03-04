@@ -40,7 +40,7 @@
             android:name=".operaciones_basicas"
             android:exported="false" />
         <activity
-            android:name=".cambios_de_camara"
+            android:name=".cambios_de_pantalla"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

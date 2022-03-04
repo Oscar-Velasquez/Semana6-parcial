@@ -43,6 +43,14 @@
             android:text="@string/ti4" />
     </com.google.android.material.tabs.TabLayout>
 
+    <Button
+        android:id="@+id/idatras5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#663788"
+        android:onClick="Atras5"
+        android:text="@string/atras" />
+
     <androidx.viewpager.widget.ViewPager
         android:id="@+id/viewpager"
         android:layout_width="match_parent"
